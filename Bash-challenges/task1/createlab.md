@@ -80,3 +80,18 @@ This command switches your distribution to WSL 2 for improved performance.
 - Linux users can practice bash commands directly in their terminal without additional setup
 - WSL provides a native Linux experience on Windows without the overhead of full virtualization
 - Regular updates are recommended for optimal performance and security
+
+## Must Know
+- what is Kernel?
+- What is Shell?
+- What is shell Scripting?
+- Starting a Shell?
+
+
+## Types of Shell
+ - Gnome
+ - KDE
+ - sh
+ - Bash
+ - csh and tcsh
+ - ksh
