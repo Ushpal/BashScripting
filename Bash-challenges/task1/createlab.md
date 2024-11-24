@@ -95,3 +95,10 @@ This command switches your distribution to WSL 2 for improved performance.
  - Bash
  - csh and tcsh
  - ksh
+
+## Scripting Standard
+- Script Naming Convention
+- Script File Permissions
+- Shell Script Format
+- Sequence if Script Execution
+- What are variable and how to create them?
